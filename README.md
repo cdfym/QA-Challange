@@ -180,6 +180,8 @@ Key resources and elements for API testing:
 
 ### Backend (C# APIs)
 
+Invitation to the workplace in Postman: https://app.getpostman.com/join-team?invite_code=f4ec862b82ba348b9b64c289b7e69a8510d650c5e7e15e6c3e44f9ecd8e3245f&target_code=5989b00b57b30b59d7ab372eebc98c39
+
 *User Authentication*
 
 * TC1: Validate successful login by entering Username and Password correctly.
